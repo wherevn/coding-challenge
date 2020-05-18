@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func Test__W3D18__findAnagrams(t *testing.T) {
+func Test__W3D17__findAnagrams(t *testing.T) {
 	type args struct {
 		s string
 		p string
